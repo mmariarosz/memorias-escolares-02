@@ -1,0 +1,20 @@
+
+assets/
+│
+├── fundamental-1/
+│   ├── foto-1.jpg
+│   ├── foto-2.jpg
+│   ├── foto-3.jpg
+│   └── foto-4.jpg
+│
+├── fundamental-2/
+│   ├── foto-1.jpg
+│   ├── foto-2.jpg
+│   ├── foto-3.jpg
+│   └── foto-4.jpg
+│
+└── ensino-medio/
+    ├── foto-1.jpg
+    ├── foto-2.jpg
+    ├── foto-3.jpg
+    └── foto-4.jpg
